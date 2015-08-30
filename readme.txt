@@ -12,17 +12,17 @@ Users Searched For is a tool that records all searches made on your WordPress si
 
 == Description ==
 
-Users Searched For (USF) is a lightweight plugin that hides under the **Admin backed -> Tools -> Users Searched For** menu. It records all the terms that your users have searched for on your WordPress site and displayes them in a dedicated section, where you can apply different filters.
+Users Searched For (USF) is a lightweight plugin that hides under the **Admin backend -> Tools -> Users Searched For** menu. It records all the terms that your users have searched for on your WordPress site and displays them in a dedicated section, where you can apply different filters.
 
 This plugin is very useful if want to have a quick insight of what people are searching for on your site. 
 
-Filters available (sorting options):
+Available Filters (sorting options):
 
 * pagination
 * username or Visitor (detects if the user is logged in and displays its name)
 * landing page (if the search returns results, these will be recorded by title and direct link)
 * IP address - stores the user's IP address for later statistics (country, city, ISP)
-* Time and date - eg 2015-08-29 17:31:09 - have a clear timestamp when a user made the search
+* Time and date - eg 2015-08-29 17:31:09 - have a clear timestamp when the user made the search
 
 TODO - no plugin is ever in a final form. However, the following will be implemented in the future versions:
 
@@ -33,7 +33,7 @@ TODO - no plugin is ever in a final form. However, the following will be impleme
 * Export as CSV, XLS, PDF with customizable time segments
 * Trends
 
-Please feel free to send improvement requests.
+Please feel free to send any improvement requests.
 
 == Installation ==
 
