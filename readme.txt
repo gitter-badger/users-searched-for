@@ -26,7 +26,7 @@ Filters available (sorting options):
 
 TODO - no plugin is ever in a final form. However, the following will be implemented in the future versions:
 
-* Display countries, cities and ISPs instead of IP
+* Display countries, cities and ISPs instead of IPs
 * Make automatic suggestions based on search records for building new pages or posts
 * Compatibility with top 20 search-enhancing plugins
 * Daily/Weekly/Monthly reports, downloadable or sent by e-mail
@@ -40,21 +40,6 @@ Please feel free to send improvement requests.
 1. Upload the folder `users-searched-for` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After a few searches, consult the results in your admin backend -> Tools -> Users Searched For
-
-== Frequently Asked Questions ==
-
-= A question that someone might have =
-
-An answer to that question.
-
-= What about foo bar? =
-
-Answer to foo bar dilemma.
-
-== Screenshots ==
-
-1. Records view
-2. Snapshot of how it works
 
 == Changelog ==
 
