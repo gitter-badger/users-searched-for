@@ -34,8 +34,9 @@ $searchedTerms = $this->getSearchedTerms();
 
             <?php
 
-            foreach ($searchedTerms as $key => $obj) {
-                echo "
+            if ($searchedTerms) {
+                foreach ($searchedTerms as $key => $obj) {
+                    echo "
                         <tr class='usf-table-body'>
                             <td>{$obj->record_id}</td>
                             <td class='sort-by-name'>{$this->getUserName($obj->user_id)}</td>
@@ -49,6 +50,9 @@ $searchedTerms = $this->getSearchedTerms();
                             <td class='sort-by-date'>{$obj->timestamp}</td>
                         </tr>
                 ";
+                }
+            } else {
+                echo "<h4>No searches recorded yet.</h4>";
             }
 
             ?>

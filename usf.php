@@ -248,7 +248,7 @@ class USF {
             return $results;
         }
 
-        return null;
+        return false;
     }
 
 
