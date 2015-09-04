@@ -1,6 +1,6 @@
 <?php
 
 /**
- * Helper class containins "self discovering" methods and properties
+ * Helper class containing "self discovering" methods and properties
  */
 class USF_Helper {}
