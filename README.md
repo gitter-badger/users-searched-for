@@ -1,3 +1,5 @@
+[![Code Climate](https://codeclimate.com/github/foae/users-searched-for/badges/gpa.svg)](https://codeclimate.com/github/foae/users-searched-for) [![Build Status](https://travis-ci.org/foae/users-searched-for.svg?branch=master)](https://travis-ci.org/foae/users-searched-for)
+
 Users Searched For is a tool that records all searches made on your WordPress site. Detects if results were found.
 
 **Description**
