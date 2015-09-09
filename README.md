@@ -32,3 +32,6 @@ Please feel free to send improvement requests.
 1. Upload the folder `users-searched-for` to the `/wp-content/plugins/` directory
 2. Activate the plugin through the 'Plugins' menu in WordPress
 3. After a few searches, consult the results in your admin backend -> `Tools` -> `Users Searched For`
+
+
+[![Join the chat at https://gitter.im/foae/users-searched-for](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/foae/users-searched-for?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
